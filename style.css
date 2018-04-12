@@ -1,0 +1,23 @@
+html {
+    background: green
+}
+h1 {
+    text-align:center; font-size:60px
+
+}
+#input1 {
+    text-align: center
+}
+#amount-due {
+    text-align:center; width:300px; height:50px; margin:50px
+}
+#input2 {
+    text-align: center
+}
+#amount-received {
+    text-align:center; width:300px; height:50px; margin:50px
+}
+#clicker {
+    text-align: center
+}
+
